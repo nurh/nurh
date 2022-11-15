@@ -14,3 +14,5 @@ My name is Nur, and I am a freelance developer and tech writer. I've worked for 
 -->
 
 - 🔭 I’m currently working on several toy operating systems to learn how they're built from the ground up. They're in the early stages, and the most functional one is a little kernel called Treehouse.
+
+- 🐘You can also find me on <a rel="me" href="https://fosstodon.org/@nurhussein">Mastodon</a>.
