@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Nur, and I am a freelance developer and tech writer. I've worked for companies such as Grab, Intel, and Motorola. I've written articles on Linux for LWN.net. My interests are research and development of operating systems. If it's a new and interesting OS, I'll be sure to check it out! 
+My name is Nur, and I am a freelance developer and tech writer. I've worked for companies such as Grab, Intel, and Motorola, and I am currently a contractor for Google Deepmind. I've written articles on Linux for LWN.net. My interests are research and development of operating systems. If it's a new and interesting OS, I'll be sure to check it out! 
 
 <!--
 **nurh/nurh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
